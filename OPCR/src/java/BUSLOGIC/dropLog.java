@@ -27,6 +27,7 @@ public class dropLog {
     var_env env = new var_env();
 
 //    log user's search history
+    // 记录用户搜索日志
     public void log_userSearchHistory(String userIdentification, String searchKey, String usubclass) throws ServletException, IOException, ClassNotFoundException, SQLException, InstantiationException, IllegalAccessException, Exception {
         tid = getTrackingKey().toString();
 //

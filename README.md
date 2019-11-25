@@ -2,8 +2,11 @@
 
 博士论文：An_Ontology_based_Hybrid_Approach_to_Course_Recommendation_in_Higher_Education
 
+论文中要搜索的
 
+https://digital.ucas.com/search
 
+![](./assests/img/1.png) 这个网站还挺好的
 
 ## 章节5 实验和结果
 
