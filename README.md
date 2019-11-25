@@ -6,7 +6,7 @@
 
 https://digital.ucas.com/search
 
-![](./assests/img/1.png) 这个网站还挺好的
+这个网站还挺好的
 
 ## 摘要
 
